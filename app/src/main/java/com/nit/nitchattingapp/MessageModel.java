@@ -7,6 +7,7 @@ public class MessageModel {
 
     public MessageModel(String id, String name, String message, String time) {
         //  New code
+        // Nit
         this.id = id;
         this.name = name;
         this.message = message;
