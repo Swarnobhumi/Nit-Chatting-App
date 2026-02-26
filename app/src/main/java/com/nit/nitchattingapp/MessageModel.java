@@ -6,6 +6,7 @@ public class MessageModel {
     public MessageModel() {}
 
     public MessageModel(String id, String name, String message, String time) {
+        //  New code
         this.id = id;
         this.name = name;
         this.message = message;
